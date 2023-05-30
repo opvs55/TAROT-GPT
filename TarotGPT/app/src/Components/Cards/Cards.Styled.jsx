@@ -73,9 +73,9 @@ export const CardFront = styled.div`
     font-size: 15px;
     font-family: Helvetica, sans-serif;
     color: white;
+    height: 0px;
     font-weight: bold;
-
-    position: relative;
+    position: absolute;
     top: 210px;
   }
 `;
