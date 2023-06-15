@@ -10,3 +10,5 @@ uma cartomante.
 Este projeto está em desenvolvimento, provavelmente farei alguma alterações visando
 perfomance, formato de imagens e responsividade.
 
+
+## EM DESENVOLVIMENTO
