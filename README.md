@@ -12,3 +12,7 @@ perfomance, formato de imagens e responsividade.
 
 
 ## EM DESENVOLVIMENTO
+
+-implementar loading na requisição
+-melhorar a adaptação gráfica, alguns ghosting na resolução padrão
+-otimizar aplicação e trocar formato das imagens
