@@ -4,7 +4,7 @@ import { HomePage } from './Containers/HomePage/Homepage'
 import { LecturePage } from './Containers/LecturePage/LecturePage'
 
 
-const API_KEY = "";
+const API_KEY = "coloque sua chave para api do open ai aqui";
 
 const systemMessage = {
   role: "system",
