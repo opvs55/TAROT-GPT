@@ -4,7 +4,7 @@ import { HomePage } from './Containers/HomePage/Homepage'
 import { LecturePage } from './Containers/LecturePage/LecturePage'
 
 
-const API_KEY = "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";
+const API_KEY = "";
 
 const systemMessage = {
   role: "system",
